@@ -62,11 +62,11 @@
     ],
     [
         {
-            "name": "Tôi là một người sống sót" thông minh "",
+            "name": "Tôi là một người sống sót 'thông minh'",
             "giá trị": "6"
         },
         {
-            "name": "Tôi là một" người theo chủ nghĩa lý tưởng "cao quý",
+            "name": "Tôi là một người theo chủ nghĩa lý tưởng 'cao quý'",
             "giá trị": "3"
         }
     ],
@@ -586,7 +586,7 @@
             "giá trị": "4"
         },
         {
-            "name": "Tôi thường" điều tra "những người thân yêu để xem họ có yêu tôi không",
+            "name": "Tôi thường 'điều tra' những người thân yêu để xem họ có yêu tôi không",
             "giá trị": "1"
         }
     ],
@@ -1012,7 +1012,7 @@
     ],
     [
         {
-            "name": "Nói chung, tôi thích" giải phóng "và đẩy các giới hạn",
+            "name": "Nói chung, tôi thích 'giải phóng' và đẩy các giới hạn",
             "giá trị": "8"
         },
         {
