@@ -976,7 +976,7 @@
             "giá trị": "8"
         },
         {
-            "name": "Tôi là một người rất ổn định trong phần lớn thời gian trong cuộc đời, tôi sẽ" lòng trong như nước "",
+            "name": "Tôi là một người rất ổn định trong phần lớn thời gian trong cuộc đời, tôi sẽ 'lòng trong như nước'",
             "giá trị": "0"
         }
     ],
