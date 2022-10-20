@@ -52,7 +52,7 @@ function nineEnd() {
 $(document).ready(function () {
     var ctx = document.getElementById("canvas").getContext("2d");
     var radarChartData = {
-        labels: ["kiểu hoàn hảo (1)", "kiểu trợ giúp (2)", "kiểu thành tích (3)", "kiểu bản ngã (4)", "kiểu hợp lý (5)", "kiểu nghi ngờ (6)", "kiểu tích cực (7)", "kiểu lãnh đạo (8)", "kiểu ôn hòa (9)"],
+        labels: ["Cầu toàn/Phán xét (1)", "Giúp đỡ/Chiếm hữu (2)", "Tham vọng/Bốc đồng (3)", "Cá Tính/Bất ổn (4)", "Lý trí/Thực dụng (5)", "Trung thành/Tiêu cực (6)", "Nhiệt Tình/Thiếu kiên nhẫn (7)", "Lãnh Đạo/Bảo thủ (8)", "Ôn hòa/Nhu nhược (9)"],
         datasets: [
             {
                 label: "Nine",

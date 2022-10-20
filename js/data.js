@@ -2,11 +2,11 @@
 [
     [
         {
-            "name": "Tôi lãng mạn và kỳ ảo",
+            "name": "Tôi lãng mạn và cảm xúc",
             "value": "4"
         },
         {
-            "name": "Tôi thực tế và thực tế",
+            "name": "Tôi thực tế và lý trí",
             "value": "1"
         }
     ],
@@ -26,7 +26,7 @@
             "value": "2"
         },
         {
-            "name": "Tôi nói chung là thẳng thừng, rập khuôn và hư ảo",
+            "name": "Tôi nói chung là thẳng thừng và rập khuôn",
             "value": "4"
         }
     ],
@@ -272,7 +272,7 @@
     ],
     [
         {
-            "name": "Tôi nói chung không phụ thuộc vào sự tập trung",
+            "name": "Tôi nói chung không thực sự tập trung",
             "value": "7"
         },
         {
