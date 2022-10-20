@@ -52,7 +52,7 @@ function nineEnd() {
 $(document).ready(function () {
     var ctx = document.getElementById("canvas").getContext("2d");
     var radarChartData = {
-        labels: ["完美型", "助人型", "成就型", "自我型", "理智型", "疑惑型", "活跃型", "领袖型", "和平型"],
+        labels: ["kiểu hoàn hảo (1)", "kiểu trợ giúp (2)", "kiểu thành tích (3)", "kiểu bản ngã (4)", "kiểu hợp lý (5)", "kiểu nghi ngờ (6)", "kiểu tích cực (7)", "kiểu lãnh đạo (8)", "kiểu ôn hòa (9)"],
         datasets: [
             {
                 label: "Nine",
